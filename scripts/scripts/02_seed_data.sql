@@ -1,4 +1,4 @@
--- 02_seed_data.sql: Carga Inicial do Hospital Universitário
+02_seed_data.sql: Carga Inicial do Hospital Universitário
 
 INSERT INTO workflow.setores (nome) VALUES 
 ('Auditoria'), 
