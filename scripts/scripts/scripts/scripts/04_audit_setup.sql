@@ -1,4 +1,4 @@
--- 04_audit_setup.sql: Trilha de Auditoria com Trigger Security Definer e JSONB
+ 04_audit_setup.sql: Trilha de Auditoria com Trigger Security Definer e JSONB
 
 CREATE TABLE audit.logged_actions (
     id SERIAL PRIMARY KEY,
