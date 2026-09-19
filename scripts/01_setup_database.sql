@@ -1,4 +1,4 @@
--- 01_setup_database.sql: Provisionamento de Schemas e Tabelas do Workflow Hospitalar
+01_setup_database.sql: Provisionamento de Schemas e Tabelas do Workflow Hospitalar
 
 CREATE SCHEMA IF NOT EXISTS workflow;
 CREATE SCHEMA IF NOT EXISTS audit;
